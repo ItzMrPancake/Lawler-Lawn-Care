@@ -31,6 +31,11 @@ export const Hero: React.FC<HeroProps> = ({ onOpenQuote, onExploreCalculator }) 
                 <Star className="w-3.5 h-3.5 fill-current" />
                 <span>4.9 / 5.0 ({BUSINESS_INFO.reviewCount} Reviews)</span>
               </span>
+              <span aria-hidden="true" className="text-neutral-400 dark:text-neutral-600">·</span>
+              <span className="inline-flex items-center gap-1 text-emerald-600 dark:text-emerald-300 font-semibold">
+                <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
+                <span>2026 Routes Open</span>
+              </span>
             </div>
 
             {/* Main Headline */}

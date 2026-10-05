@@ -11,7 +11,7 @@ export const BUSINESS_INFO = {
   hours: 'Monday – Saturday: 7:00 AM – 6:30 PM',
   emergencyResponse: 'Same-day weather reschedule notifications via SMS',
   rating: 4.9,
-  reviewCount: 284,
+  reviewCount: 134,
   yearsInBusiness: 16,
 };
 
