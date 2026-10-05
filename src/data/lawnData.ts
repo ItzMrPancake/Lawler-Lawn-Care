@@ -315,7 +315,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     category: 'striping',
     categoryLabel: 'Precision Striping',
     location: 'Heritage Estates, Mansfield, TX',
-    image: '/src/assets/images/gallery_diamond_stripes_1791232171426.jpg',
+    image: './images/gallery_diamond_stripes_1791232171426.jpg',
     description: 'Weekly precision mowing with commercial Toro 60" floating mulching deck and striping roller, alternating diagonal diamond cut pattern at 2.5" height.',
     specs: ['Toro 60" Commercial Zero-Turn', 'Diamond Pattern Striping Kit', 'Weekly Route Schedule', '100% Clippings Recycled']
   },
@@ -325,7 +325,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     category: 'edging',
     categoryLabel: 'Perimeter Edging',
     location: 'Martin High District, Arlington, TX',
-    image: '/src/assets/images/gallery_razor_edge_1791232183277.jpg',
+    image: './images/gallery_razor_edge_1791232183277.jpg',
     description: 'Vertical steel blade mechanical edging along 240 linear feet of sidewalk, driveway, and curbs, creating a razor-sharp 90-degree trench with zero turf tearing.',
     specs: ['Steel Blade Mechanical Edger', '240 Linear Feet Trimmed', 'Zero Turf Scalping', 'High-CFM Blower Cleaned']
   },
@@ -335,7 +335,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     category: 'mulch',
     categoryLabel: 'Mulch & Flowerbeds',
     location: 'Hidden Creek, Burleson, TX',
-    image: '/src/assets/images/gallery_mulch_flowerbed_1791232192236.jpg',
+    image: './images/gallery_mulch_flowerbed_1791232192236.jpg',
     description: 'Deep hand-dug spade trench edging, broadleaf bed weed barrier application, and 7 yards of triple-shredded dark espresso hardwood mulch installed at a 2.5-inch depth.',
     specs: ['7 Yards Organic Cedar Mulch', 'Deep Spade Trench Edging', 'Bed Pre-Emergent Applied', 'Boxwood Architectural Pruning']
   },
@@ -345,7 +345,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     category: 'backyard',
     categoryLabel: 'Backyard Living',
     location: 'Walnut Creek Country Club, Mansfield, TX',
-    image: '/src/assets/images/gallery_estate_patio_1791232201465.jpg',
+    image: './images/gallery_estate_patio_1791232201465.jpg',
     description: 'Complete backyard revitalization: core aeration, slow-release nitrogen feeding, and tight tolerance trimming along flagstone walkways and living spaces.',
     specs: ['Estate Comprehensive Plan', 'Core Aeration & Overseed', 'Flagstone Hardscape Clear', 'Pet-Safe Organic Nutrients']
   },
@@ -355,7 +355,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     category: 'commercial',
     categoryLabel: 'Commercial Grounds',
     location: 'Matlock Road Professional Center, Arlington, TX',
-    image: '/src/assets/images/service_shrub_turf_1791231937708.jpg',
+    image: './images/service_shrub_turf_1791231937708.jpg',
     description: 'High-visibility commercial grounds maintenance with weekly early morning mowing to prevent tenant disturbance, parking island blow-down, and hedge maintenance.',
     specs: ['Weekly Tuesday SLA Route', 'Zero Tenant Disruption', 'Full Parking Island Blow-Down', '$2M Liability Certificate']
   },
@@ -365,7 +365,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     category: 'striping',
     categoryLabel: 'Precision Striping',
     location: 'South Pointe, Mansfield, TX',
-    image: '/src/assets/images/hero_lawn_estate_1791231909354.jpg',
+    image: './images/hero_lawn_estate_1791231909354.jpg',
     description: 'Four-week weed eradication and nutritional overhaul transformed yellow patchy grass into a dense, emerald carpet with tournament-grade cross-hatch striping.',
     specs: ['6-Stage Weed & Feed Program', 'Cross-Hatch Cut Pattern', 'Zero Weeds Achieved', 'Enhanced Curb Appeal']
   }

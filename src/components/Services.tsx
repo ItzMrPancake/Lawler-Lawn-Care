@@ -115,7 +115,7 @@ export const Services: React.FC<ServicesProps> = ({ onSelectService }) => {
           <div className="mb-10 rounded-2xl overflow-hidden border border-neutral-200 dark:border-neutral-800 bg-neutral-50 dark:bg-neutral-900 grid grid-cols-1 lg:grid-cols-12 shadow-sm transition-colors">
             <div className="lg:col-span-5 relative h-64 lg:h-auto min-h-[220px]">
               <img
-                src="/src/assets/images/service_shrub_turf_1791231937708.jpg"
+                src="./images/service_shrub_turf_1791231937708.jpg"
                 alt="Commercial landscape grounds maintained by Lawler Lawn Care"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover"

@@ -58,7 +58,7 @@ export const BeforeAfterSlider: React.FC = () => {
           >
             {/* After Image (Full background) */}
             <img
-              src="/src/assets/images/lawn_after_manicured_1791231927840.jpg"
+              src="./images/lawn_after_manicured_1791231927840.jpg"
               alt="Lawler Lawn Care after treatment with emerald green turf and precision striping"
               referrerPolicy="no-referrer"
               className="absolute inset-0 w-full h-full object-cover"
@@ -70,7 +70,7 @@ export const BeforeAfterSlider: React.FC = () => {
               style={{ width: `${sliderPosition}%` }}
             >
               <img
-                src="/src/assets/images/lawn_before_patchy_1791231918161.jpg"
+                src="./images/lawn_before_patchy_1791231918161.jpg"
                 alt="Overgrown patchy yard before Lawler Lawn Care treatment"
                 referrerPolicy="no-referrer"
                 className="absolute inset-0 w-full h-full object-cover max-w-none"

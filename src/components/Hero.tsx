@@ -89,7 +89,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenQuote, onExploreCalculator }) 
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-2xl overflow-hidden border border-neutral-200 dark:border-neutral-800 bg-neutral-100 dark:bg-neutral-900 shadow-2xl group">
               <img
-                src="/src/assets/images/hero_lawn_estate_1791231909354.jpg"
+                src="./images/hero_lawn_estate_1791231909354.jpg"
                 alt="Lawler Lawn Care striped estate lawn with manicured edges and lush green turf"
                 referrerPolicy="no-referrer"
                 className="w-full h-[380px] sm:h-[440px] object-cover transition-transform duration-700 group-hover:scale-105"
