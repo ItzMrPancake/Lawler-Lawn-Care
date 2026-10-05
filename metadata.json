@@ -1,0 +1,6 @@
+{
+  "name": "Lawler Lawn Care",
+  "description": "Premium residential and commercial lawn care, precision mowing, weed control, core aeration, fertilization, and seasonal landscape maintenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
